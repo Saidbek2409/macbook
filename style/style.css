@@ -1,0 +1,227 @@
+@font-face {
+    font-family: Gilroy;
+    src: url(../font/Gilroy-Regular.ttf);
+}
+
+.container {
+    margin: auto;
+    width: 1000px;
+    height: 1000px;
+}
+
+
+.section1 h1 {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+    color: #000000;
+    padding-bottom: 24px;
+}
+
+.section1 p {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+}
+
+.section2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 76px;
+    height: 289px;
+}
+
+
+
+
+.section2-text h1 {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+    color: #000000;
+}
+
+.section2-text p {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #0071E3;
+}
+
+.section2-text h3 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    color: #000000;
+}
+
+.section3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.bott2 {
+    display: flex;
+    margin-bottom: 39px;
+    gap: 11px;
+}
+
+.blue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 155px;
+    height: 42px;
+    background: #007FFF;
+    border-radius: 10px;
+    border: none;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    transition: 300ms;
+  
+
+}
+
+/* клаас кнопки синий не при фокусе */
+
+.space-grey {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 155px;
+    height: 42px;
+
+    background: #CFE7FF;
+    border-radius: 10px;
+    border: none;
+    border-radius: 10px;
+    color: #797979;
+    transition: 300ms;
+    
+}
+
+
+.space-grey p {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+
+}
+
+.butt_storage {
+    width: 321px;
+    height: 57px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    transition: 300ms;
+    
+}
+.butt_storage2 {
+    width: 321px;
+    height: 57px;   
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    transition: 300ms;
+    
+}
+.butt_storage3 {
+    width: 321px;
+    height: 57px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    transition: 300ms;
+    
+}
+.butt_storage4 {
+    width: 321px;
+    height: 57px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    transition: 300ms;
+    
+}
+
+
+.btn1{
+    border: 3px solid #007FFF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 7px;
+    background-color: white;
+    align-items: center;
+}
+.btn2{
+    border: 3px solid #007FFF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 7px;
+    background-color: white;
+    align-items: center;
+
+} 
+.btn3{
+    border: 3px solid #007FFF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 7px;
+    background-color: white;
+    align-items: center;
+}
+.btn4{
+    border: 3px solid #007FFF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 7px;
+    background-color: white;
+    align-items: center;
+}

@@ -1,0 +1,31 @@
+@media (max-width: 1024px){
+    .section1{
+        width: 750px;
+        margin: auto;
+    }
+}
+
+
+
+
+
+@media (max-width: 390px){
+    .section1{
+        width: 600px;
+        margin: auto;
+
+    }
+    .section1 h1 {
+        font-size: 40px;
+        padding-bottom: 10px;
+    }
+    .section2{
+        margin: 30px;
+        gap: 30px;
+        flex-direction: column;
+    }
+    .section2 p{
+        margin-top: -400px;
+    }
+}
+
